@@ -11,9 +11,8 @@ I enjoy building software where <b>research meets real-world impact</b>. My work
 </p>
 
 <p align="center">
-<a href="https://vlaasyapriya.vercel.app/">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/laasya-priya-vemuri">💼 LinkedIn</a> •
-<a href="mailto:vlaasyapriya77@gmail.com">📧 Email</a>
+<a href="https://linkedin.com/in/priya-vemurii">💼 LinkedIn</a> •
+<a href="mailto:priya757v@gmail.com">📧 Email</a>
 </p>
 
 ---
